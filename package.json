@@ -10,7 +10,7 @@
   "author": "Joaquin Oltra <joaquin@chimeces.com> (http://chimeces.com)",
   "license": "ISC",
   "dependencies": {
-    "concat-stream": "^1.5.1",
+    "concat-stream": "^1.6.2",
     "domino": "^1.0.20",
     "minimist": "^1.2.0",
     "numeral": "^1.5.3",
